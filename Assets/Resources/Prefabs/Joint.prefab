@@ -107,7 +107,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 1
   m_Interpolate: 0
-  m_Constraints: 120
+  m_Constraints: 112
   m_CollisionDetection: 0
 --- !u!114 &114399990221251104
 MonoBehaviour:
@@ -121,6 +121,3 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5fb3e23a0b29e4f219cfbd4baaac59b3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mouseHoverTexture: {fileID: 2800000, guid: 1703e4f9f62c14e1a981c84899a4c68e, type: 3}
-  deleted: 0
-  debugMaterial: {fileID: 0}

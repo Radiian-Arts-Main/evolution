@@ -49,7 +49,8 @@ namespace Keiwando.Evolution {
 		private UnityEngine.SceneManagement.Scene playbackScene;
 		private PhysicsScene physicsScene;
 
-		void Start () {
+        void Start()
+        {
 
 			Physics.autoSimulation = false;
 
